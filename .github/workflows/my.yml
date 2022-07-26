@@ -26,6 +26,6 @@ jobs:
 
       
       - name: Run a one-line script
-        run: echo zav
+        run: echo 'Zav!'
 
       
