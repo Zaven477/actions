@@ -26,7 +26,6 @@ jobs:
 
       
       - name: Run a one-line script
-        run: |
-          make say-hello
+        run: echo zav
 
       
